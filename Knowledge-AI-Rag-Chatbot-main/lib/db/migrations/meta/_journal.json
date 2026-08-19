@@ -1,0 +1,55 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1719997972944,
+      "tag": "0000_yielding_bloodaxe",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1778648496247,
+      "tag": "0001_nosy_caretaker",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1779254884531,
+      "tag": "0002_narrow_james_howlett",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1779255890344,
+      "tag": "0003_unique_ego",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1779256849718,
+      "tag": "0004_clean_norman_osborn",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1779687792357,
+      "tag": "0005_vengeful_crusher_hogan",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1779688539477,
+      "tag": "0006_violet_sleepwalker",
+      "breakpoints": true
+    }
+  ]
+}
